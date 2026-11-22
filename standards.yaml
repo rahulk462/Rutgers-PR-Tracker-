@@ -1,0 +1,91 @@
+# Qualifying standards. YOU fill these in from the official documents;
+# the tracker never guesses or hardcodes a standard.
+#
+# - Write marks the way results show them: "10.25", "1:47.50", "7.80m",
+#   "25-7.25" (feet-inches), "7800" (multi points).
+# - Leave an entry blank (~) if you don't have it; it shows as "—".
+# - `standards` sets the column order. Add or rename standards freely
+#   (e.g. "NCAA East") as long as you use the same names below.
+# - Event names can be any common spelling ("60 Hurdles", "Long Jump").
+
+standards: ["Big Ten", "NCAA"]
+
+
+indoor:
+  men:
+    60m:        { "Big Ten": ~, "NCAA": ~ }
+    200m:       { "Big Ten": ~, "NCAA": ~ }
+    400m:       { "Big Ten": ~, "NCAA": ~ }
+    800m:       { "Big Ten": ~, "NCAA": ~ }
+    Mile:       { "Big Ten": ~, "NCAA": ~ }
+    3000m:      { "Big Ten": ~, "NCAA": ~ }
+    5000m:      { "Big Ten": ~, "NCAA": ~ }
+    60mH:       { "Big Ten": ~, "NCAA": ~ }
+    HJ:         { "Big Ten": ~, "NCAA": ~ }
+    PV:         { "Big Ten": ~, "NCAA": ~ }
+    LJ:         { "Big Ten": ~, "NCAA": ~ }
+    TJ:         { "Big Ten": ~, "NCAA": ~ }
+    SP:         { "Big Ten": ~, "NCAA": ~ }
+    WT:         { "Big Ten": ~, "NCAA": ~ }
+    Heptathlon: { "Big Ten": ~, "NCAA": ~ }
+  women:
+    60m:        { "Big Ten": ~, "NCAA": ~ }
+    200m:       { "Big Ten": ~, "NCAA": ~ }
+    400m:       { "Big Ten": ~, "NCAA": ~ }
+    800m:       { "Big Ten": ~, "NCAA": ~ }
+    Mile:       { "Big Ten": ~, "NCAA": ~ }
+    3000m:      { "Big Ten": ~, "NCAA": ~ }
+    5000m:      { "Big Ten": ~, "NCAA": ~ }
+    60mH:       { "Big Ten": ~, "NCAA": ~ }
+    HJ:         { "Big Ten": ~, "NCAA": ~ }
+    PV:         { "Big Ten": ~, "NCAA": ~ }
+    LJ:         { "Big Ten": ~, "NCAA": ~ }
+    TJ:         { "Big Ten": ~, "NCAA": ~ }
+    SP:         { "Big Ten": ~, "NCAA": ~ }
+    WT:         { "Big Ten": ~, "NCAA": ~ }
+    Pentathlon: { "Big Ten": ~, "NCAA": ~ }
+
+outdoor:
+  men:
+    100m:       { "Big Ten": ~, "NCAA": ~ }
+    200m:       { "Big Ten": ~, "NCAA": ~ }
+    400m:       { "Big Ten": ~, "NCAA": ~ }
+    800m:       { "Big Ten": ~, "NCAA": ~ }
+    1500m:      { "Big Ten": ~, "NCAA": ~ }
+    3000mSC:    { "Big Ten": ~, "NCAA": ~ }
+    5000m:      { "Big Ten": ~, "NCAA": ~ }
+    10000m:     { "Big Ten": ~, "NCAA": ~ }
+    110mH:      { "Big Ten": ~, "NCAA": ~ }
+    400mH:      { "Big Ten": ~, "NCAA": ~ }
+    HJ:         { "Big Ten": ~, "NCAA": ~ }
+    PV:         { "Big Ten": ~, "NCAA": ~ }
+    LJ:         { "Big Ten": ~, "NCAA": ~ }
+    TJ:         { "Big Ten": ~, "NCAA": ~ }
+    SP:         { "Big Ten": ~, "NCAA": ~ }
+    DT:         { "Big Ten": ~, "NCAA": ~ }
+    HT:         { "Big Ten": ~, "NCAA": ~ }
+    JT:         { "Big Ten": ~, "NCAA": ~ }
+    Decathlon:  { "Big Ten": ~, "NCAA": ~ }
+  women:
+    100m:       { "Big Ten": ~, "NCAA": ~ }
+    200m:       { "Big Ten": ~, "NCAA": ~ }
+    400m:       { "Big Ten": ~, "NCAA": ~ }
+    800m:       { "Big Ten": ~, "NCAA": ~ }
+    1500m:      { "Big Ten": ~, "NCAA": ~ }
+    3000mSC:    { "Big Ten": ~, "NCAA": ~ }
+    5000m:      { "Big Ten": ~, "NCAA": ~ }
+    10000m:     { "Big Ten": ~, "NCAA": ~ }
+    100mH:      { "Big Ten": ~, "NCAA": ~ }
+    400mH:      { "Big Ten": ~, "NCAA": ~ }
+    HJ:         { "Big Ten": ~, "NCAA": ~ }
+    PV:         { "Big Ten": ~, "NCAA": ~ }
+    LJ:         { "Big Ten": ~, "NCAA": ~ }
+    TJ:         { "Big Ten": ~, "NCAA": ~ }
+    SP:         { "Big Ten": ~, "NCAA": ~ }
+    DT:         { "Big Ten": ~, "NCAA": ~ }
+    HT:         { "Big Ten": ~, "NCAA": ~ }
+    JT:         { "Big Ten": ~, "NCAA": ~ }
+    Heptathlon: { "Big Ten": ~, "NCAA": ~ }
+
+# Cross country has no mark standards; add some here if you use them.
+xc: {}

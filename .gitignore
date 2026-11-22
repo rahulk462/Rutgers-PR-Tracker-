@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+# your results stay on your machine
+data/tracker.db
+data/raw/
