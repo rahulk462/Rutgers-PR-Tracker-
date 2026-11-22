@@ -1,0 +1,40 @@
+athlete,athlete_id,gender,event,mark,wind,meet,date,season,place,round
+Demo Sprinter A,,men,60 Meters,6.81,,Demo Indoor Opener,2026-01-10,,2,F
+Demo Sprinter A,,men,60 Meters,6.74,,Demo Invitational,2026-01-31,,1,F
+Demo Sprinter A,,men,60 Meters,6.70,,Demo Conference Champs,2026-02-27,,3,F
+Demo Sprinter A,,men,200 Meters,21.30,,Demo Invitational,2026-01-31,,4,F
+Demo Sprinter A,,men,100 Meters,10.52,+1.1,Demo Spring Opener,2026-03-28,,2,F
+Demo Sprinter A,,men,100 Meters,10.31,+3.2,Demo Relays,2026-04-11,,1,F
+Demo Sprinter A,,men,100 Meters,10.44,+0.8,Demo Classic,2026-04-25,,1,F
+Demo Sprinter A,,men,100 Meters,10.2h,,Demo Twilight,2026-05-02,,1,F
+Demo Sprinter A,,men,100 Meters,10.39,+1.9,Demo Conference Outdoors,2026-05-15,,2,P
+Demo Sprinter A,,men,100 Meters,DNF,,Demo Conference Outdoors,2026-05-17,,,F
+Demo Sprinter A,,men,100 Meters,10.61,+0.4,Demo Spring Opener,2025-03-29,,3,F
+Demo Hurdler B,,women,60 Hurdles,8.45,,Demo Indoor Opener,2026-01-10,,1,F
+Demo Hurdler B,,women,60 Hurdles,8.31,,Demo Conference Champs,2026-02-27,,2,F
+Demo Hurdler B,,women,100 Hurdles,13.62,+1.5,Demo Spring Opener,2026-03-28,,1,F
+Demo Hurdler B,,women,100 Hurdles,13.40,+2.4,Demo Relays,2026-04-11,,2,F
+Demo Hurdler B,,women,100 Hurdles,13.48,-0.3,Demo Classic,2026-04-25,,1,F
+Demo Hurdler B,,women,100 Hurdles,DQ,,Demo Conference Outdoors,2026-05-15,,,P
+Demo Miler C,,women,Mile,4:52.10,,Demo Invitational,2026-01-31,,5,F
+Demo Miler C,,women,Mile,4:44.85,,Demo Conference Champs,2026-02-28,,3,F
+Demo Miler C,,women,1500 Meters,4:24.30,,Demo Relays,2026-04-11,,4,F
+Demo Miler C,,women,1500 Meters,4:19.02,,Demo Classic,2026-04-25,,2,F
+Demo Miler C,,women,1500 Meters,4:21.55,,Demo Conference Outdoors,2026-05-16,,6,F
+Demo Miler C,,women,6K,21:14.3,,Demo XC Open,2025-09-13,,8,
+Demo Miler C,,women,6K,20:41.8,,Demo XC Regional,2025-11-14,,15,
+Demo Jumper D,,men,Long Jump,7.21m,,Demo Indoor Opener,2026-01-10,,2,F
+Demo Jumper D,,men,Long Jump,23-10.75,,Demo Conference Champs,2026-02-27,,3,F
+Demo Jumper D,,men,Long Jump,7.35m,+1.6,Demo Relays,2026-04-11,,1,F
+Demo Jumper D,,men,Long Jump,7.58m,+2.6,Demo Classic,2026-04-25,,1,F
+Demo Jumper D,,men,Long Jump,FOUL,,Demo Conference Outdoors,2026-05-16,,,F
+Demo Jumper D,,men,Triple Jump,15.02m,+0.9,Demo Classic,2026-04-25,,2,F
+Demo Thrower E,,women,Shot Put,15.10m,,Demo Indoor Opener,2026-01-10,,3,F
+Demo Thrower E,,women,Shot Put,51-2.5,,Demo Conference Champs,2026-02-27,,2,F
+Demo Thrower E,,women,Weight Throw,19.88m,,Demo Conference Champs,2026-02-28,,4,F
+Demo Thrower E,,women,Shot Put,15.44m,,Demo Classic,2026-04-25,,2,F
+Demo Thrower E,,women,Discus,49.80m,,Demo Classic,2026-04-25,,3,F
+Demo Thrower E,,women,Discus,NM,,Demo Conference Outdoors,2026-05-16,,,F
+Demo Vaulter F,,men,Pole Vault,5.05m,,Demo Invitational,2026-01-31,,2,F
+Demo Vaulter F,,men,Pole Vault,NH,,Demo Conference Champs,2026-02-28,,,F
+Demo Vaulter F,,men,Pole Vault,5.20m,,Demo Classic,2026-04-25,,1,F

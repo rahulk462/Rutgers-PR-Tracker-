@@ -1,0 +1,23 @@
+# EXAMPLE ONLY: made-up numbers for trying the dashboard with the demo
+# data. These are NOT real Big Ten or NCAA standards. Use standards.yaml.
+standards: ["Big Ten", "NCAA"]
+indoor:
+  men:
+    60m:  { "Big Ten": "6.80", "NCAA": "6.62" }
+    LJ:   { "Big Ten": "7.40m", "NCAA": "7.85m" }
+    PV:   { "Big Ten": "5.10m", "NCAA": "5.45m" }
+  women:
+    60mH: { "Big Ten": "8.40", "NCAA": "8.10" }
+    Mile: { "Big Ten": "4:45.00", "NCAA": "4:36.00" }
+    SP:   { "Big Ten": "15.50m", "NCAA": "17.20m" }
+outdoor:
+  men:
+    100m: { "Big Ten": "10.40", "NCAA": "10.20" }
+    LJ:   { "Big Ten": "7.50m", "NCAA": "7.85m" }
+    TJ:   { "Big Ten": "15.20m", "NCAA": "16.00m" }
+  women:
+    100mH: { "Big Ten": "13.50", "NCAA": "13.10" }
+    1500m: { "Big Ten": "4:20.00", "NCAA": "4:14.00" }
+    SP:    { "Big Ten": "15.60m", "NCAA": "17.00m" }
+    DT:    { "Big Ten": "50.00m", "NCAA": "55.00m" }
+xc: {}
